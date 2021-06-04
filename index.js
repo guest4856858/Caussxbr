@@ -62,7 +62,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD'
 prefix = '.','!','#'
 blocked = []
-limitawal = '9999999999999'
+limitawal = '999999999999'
 cr = '*Causs*'
 
 /*********** LOAD FILE ***********/
