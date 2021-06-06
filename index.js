@@ -658,32 +658,32 @@ if (text.includes("placa"))
 	
 	if (messagesC.includes("fdp")){
 			client.updatePresence(from, Presence.composing)
-			reply("teu pai")
+			reply("teu pai aquele que usa vibrador de sereia")
 	}
 	
 		if (messagesC.includes("corno")){
 			client.updatePresence(from, Presence.composing)
-			reply("vsfd seu merda")
+			reply("vsfd seu merda, vai jogar seu fogaréu gratuito")
 	}
 	
 		if (messagesC.includes("tmnc")){
 			client.updatePresence(from, Presence.composing)
-			reply("vai vc, tu ja me disse q é mo bom")
+			reply("vai vc, tu ja me disse q é mo bom, vi tu na balada ontem, um(a) otimo(a) stripper")
 	}
 	
 		if (messagesC.includes("vsfd")){
 			client.updatePresence(from, Presence.composing)
-			reply("bora juntos?")
+			reply("bora juntos? a gente chama aqueles negões que te comeram aquele dia")
 	}
 	
 		if (messagesC.includes("cadebot")){
 			client.updatePresence(from, Presence.composing)
-			reply("olha eu aqui carai")
+			reply("olha eu aqui carai, ta cego fdp?")
 	}
 	
 		if (messagesC.includes("bot")){
 			client.updatePresence(from, Presence.composing)
-			reply("oi")
+			reply("opa, fala meu camarada")
 	}
 	
 			if (messagesC.includes("bah")){
